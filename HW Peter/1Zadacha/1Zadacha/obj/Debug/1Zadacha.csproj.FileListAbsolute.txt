@@ -1,0 +1,6 @@
+D:\CSharpHW\HW Peter\1Zadacha\1Zadacha\bin\Debug\1Zadacha.exe.config
+D:\CSharpHW\HW Peter\1Zadacha\1Zadacha\obj\Debug\1Zadacha.csprojResolveAssemblyReference.cache
+D:\CSharpHW\HW Peter\1Zadacha\1Zadacha\bin\Debug\1Zadacha.exe
+D:\CSharpHW\HW Peter\1Zadacha\1Zadacha\bin\Debug\1Zadacha.pdb
+D:\CSharpHW\HW Peter\1Zadacha\1Zadacha\obj\Debug\1Zadacha.exe
+D:\CSharpHW\HW Peter\1Zadacha\1Zadacha\obj\Debug\1Zadacha.pdb

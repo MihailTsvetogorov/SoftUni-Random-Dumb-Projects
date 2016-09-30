@@ -1,0 +1,6 @@
+D:\CSharpHW\HW Peter\CSharpZadachi\CSharpZadachi\bin\Debug\CSharpZadachi.exe.config
+D:\CSharpHW\HW Peter\CSharpZadachi\CSharpZadachi\obj\Debug\CSharpZadachi.csprojResolveAssemblyReference.cache
+D:\CSharpHW\HW Peter\CSharpZadachi\CSharpZadachi\bin\Debug\CSharpZadachi.exe
+D:\CSharpHW\HW Peter\CSharpZadachi\CSharpZadachi\bin\Debug\CSharpZadachi.pdb
+D:\CSharpHW\HW Peter\CSharpZadachi\CSharpZadachi\obj\Debug\CSharpZadachi.exe
+D:\CSharpHW\HW Peter\CSharpZadachi\CSharpZadachi\obj\Debug\CSharpZadachi.pdb
