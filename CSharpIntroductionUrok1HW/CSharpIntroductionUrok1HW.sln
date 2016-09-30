@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCSharp", "HelloWorld\HelloCSharp.csproj", "{1C621E52-828F-4C17-8A18-C878E707B4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{C926D59B-2B9B-422A-824D-FBAC79433F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C621E52-828F-4C17-8A18-C878E707B4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C621E52-828F-4C17-8A18-C878E707B4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C621E52-828F-4C17-8A18-C878E707B4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C621E52-828F-4C17-8A18-C878E707B4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C926D59B-2B9B-422A-824D-FBAC79433F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C926D59B-2B9B-422A-824D-FBAC79433F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C926D59B-2B9B-422A-824D-FBAC79433F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C926D59B-2B9B-422A-824D-FBAC79433F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
